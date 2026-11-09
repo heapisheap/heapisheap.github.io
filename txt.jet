@@ -1,0 +1,6 @@
+1 font "Balto-Book"->"### i am groot"
+2 font "Balto-Book"->"## i am groot"
+3 font "Balto-Book"->"# i am groot"
+4 font "Balto-Book"->"hi"
+5 Img "photo.jpg" below s4 (Size: 70%, caption "a man from north Korea hanging laundry with his friend kim jong il.")
+6 font "Balto-Book"->"### i am groot, "->font "Balto-Book"->"can also continue too"

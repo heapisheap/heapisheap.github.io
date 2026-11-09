@@ -1,6 +1,9 @@
-1 font "Balto-Book"->"### i am groot"
-2 font "Balto-Book"->"## i am groot"
-3 font "Balto-Book"->"# i am groot"
-4 font "Balto-Book"->"hi"
-5 Img "photo.jpg" below s4 (Size: 70%, caption "a man from north Korea hanging laundry with his friend kim jong il.")
-6 font "Balto-Book"->"### i am groot, "->font "Balto-Book"->"can also continue too"
+1 font "balto-book.ttf"->"### Hi, I'm heap"
+2 font "balto-book.ttf"->"i'm a low level developer. i create decks on castle as a hobby. it's where i can express my low level programming, such as emulator decks, and other experiments that seem impossible. i am currently working on improving the GBA emulator (codename Gilva) deck, to improve the audio engine for weaker phones."
+3 font "balto-book.ttf"->"## my emulation decks"
+4 font "balto-book.ttf"->"- small SNES emulator (done.)
+- full scale GBA emulator, gilva, done.
+- full scale GENESIS emulator, partially done.
+- full scale NES emulator, sanitar, done.
+comment on my decks if you wanna suggest something. don't be afraid.
+"
